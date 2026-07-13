@@ -495,3 +495,9 @@ a:hover {
   color: #fff;
   text-decoration: underline;
 }
+
+a:focus-visible {
+  outline: 2px solid #b999d6;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
